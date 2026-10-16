@@ -1,0 +1,7 @@
+{
+  "name": "HomeHub - Google Home & Gestão de Energia",
+  "description": "Controle inteligente de dispositivos Google Home, gerenciador de cômodos e análise detalhada de consumo de energia por período.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
